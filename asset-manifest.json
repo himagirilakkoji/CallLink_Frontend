@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CallLink_Frontend/static/css/main.fcc6db5c.css",
-    "main.js": "/CallLink_Frontend/static/js/main.11c9dcff.js",
+    "main.css": "/CallLink_Frontend/static/css/main.e3b23ed4.css",
+    "main.js": "/CallLink_Frontend/static/js/main.76dea848.js",
     "static/js/453.d40a93b2.chunk.js": "/CallLink_Frontend/static/js/453.d40a93b2.chunk.js",
     "static/media/bootstrap-icons.woff?": "/CallLink_Frontend/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/CallLink_Frontend/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/CallLink_Frontend/index.html",
-    "main.fcc6db5c.css.map": "/CallLink_Frontend/static/css/main.fcc6db5c.css.map",
-    "main.11c9dcff.js.map": "/CallLink_Frontend/static/js/main.11c9dcff.js.map",
+    "main.e3b23ed4.css.map": "/CallLink_Frontend/static/css/main.e3b23ed4.css.map",
+    "main.76dea848.js.map": "/CallLink_Frontend/static/js/main.76dea848.js.map",
     "453.d40a93b2.chunk.js.map": "/CallLink_Frontend/static/js/453.d40a93b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcc6db5c.css",
-    "static/js/main.11c9dcff.js"
+    "static/css/main.e3b23ed4.css",
+    "static/js/main.76dea848.js"
   ]
 }
